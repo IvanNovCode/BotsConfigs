@@ -1,4 +1,7 @@
 {
-  "content": "",
-  "embeds": ""
+  "server_id": "",
+  "channel_id_bot_log": "".
+  "channel_id_user_log": "1123762184019775538",
+  "main_color": "7167737",
+  "error_color": "14300988"
 }
